@@ -4,7 +4,7 @@
 ## 👨🏻‍💻 About Me:
 
 🔭 I’m currently working on [EGY Yazılım](https://www.egyyazilim.com/)<br>
-🌱 I’m currently learning **Kotlin & .Net & C#** <br>
+🌱 I’m currently learning **Kotlin & Android** <br>
 📫 How to reach me **batuhankocagoz0@gmail.com** <br>
 
 ## 🌐 Socials:
