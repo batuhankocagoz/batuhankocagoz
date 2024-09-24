@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Batuhan</h1>
+<h1 align="center">Hi 👋, I'm Batuhan Kocagoz</h1>
 <h3 align="center">Android Developer</h3>
 
 ## 👨🏻‍💻 About Me:
@@ -22,8 +22,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23EE4C2C.svg?style=for-the-badge&logo=firebase) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%23150458.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhankocagoz&show_icons=true)  
 
