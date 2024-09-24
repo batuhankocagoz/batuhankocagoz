@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Batuhan</h1>
-<h3 align="center">Android Developer Intern</h3>
+<h3 align="center">Android Developer</h3>
 
-
+- 🔭 I’m currently working on **EGY Yazılım**
 - 🌱 I’m currently learning **Kotlin and Android**
+- 📫 How to reach me batuhankocagoz0@gmail.com
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
