@@ -28,8 +28,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=batuhankocagoz&theme=algolia&show_icons=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=batuhankocagoz&theme=algolia&show_icons=true)<br/>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=batuhankocagoz)  
-
 
 
 
