@@ -7,7 +7,6 @@
 🌱 I’m currently learning **Kotlin & .Net & C#** <br>
 📫 How to reach me **batuhankocagoz0@gmail.com** <br>
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhankocagoz) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@batuhankocagoz) 
@@ -25,8 +24,9 @@
 ![Canva](https://img.shields.io/badge/Canva-%23150458.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=batuhankocagoz&show_icons=true)  
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=batuhankocagoz&theme=algolia&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=batuhankocagoz&theme=algolia&show_icons=true)<br/>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=batuhankocagoz)  
 
